@@ -39,7 +39,7 @@ body{
 #info{
     position: absolute;
     z-index: 100;
-    top: 30vh;
+    top: 10vh;
     display: grid;
     gap: 10%;
     margin: 5vw;
