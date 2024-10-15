@@ -14,7 +14,7 @@ body{
 #pumpkin{
     position: fixed;
     z-index: 100;
-    bottom: 1px;
+    top: 30vh;
 }
 #info{
     position: absolute;
