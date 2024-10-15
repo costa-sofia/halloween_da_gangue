@@ -1,0 +1,49 @@
+body{
+    background-color: #00091d;
+    border: none;
+    margin: 0;
+    font-family: "Griffy", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #f3841c;
+    font-size: 1.3rem;
+    padding: 10px;
+}
+#title{
+    display: flex;
+    justify-content: center;
+}
+#viewer{
+    height: 110vh;
+}
+.container .box {
+    width: 40vw;
+    padding: 1rem;
+    background-color: #00122f5e;
+    border: 1px solid #011f5e42;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    border-radius: 0.7rem;
+    transition: all ease 0.3s;
+}
+.box-center{
+    width: 30vw;
+    padding: 1rem;
+    background-color: #00122f5e;
+    border: 1px solid #011f5e42;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    border-radius: 0.7rem;
+    transition: all ease 0.3s;
+    text-align: center;
+}
+
+#info{
+    position: absolute;
+    z-index: 100;
+    top: 30vh;
+    display: grid;
+    gap: 10%;
+    margin: 5vw;
+}
+
