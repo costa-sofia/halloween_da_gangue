@@ -14,10 +14,9 @@ body{
     justify-content: center;
 }
 #viewer{
-    height: 110vh;
+    height: 70vh;
 }
 .container .box {
-    width: 40vw;
     padding: 1rem;
     background-color: #00122f5e;
     border: 1px solid #011f5e42;
@@ -27,7 +26,6 @@ body{
     transition: all ease 0.3s;
 }
 .box-center{
-    width: 30vw;
     padding: 1rem;
     background-color: #00122f5e;
     border: 1px solid #011f5e42;
