@@ -8,12 +8,13 @@ body{
     justify-content: center;
 }
 #viewer{
-    height: 110vh;
+    height: 70vh;
 }
 #pumpkin{
     position: fixed;
     z-index: 100;
-    top: 105vh;
+    top: 60vh;
+    left: -100px;
 }
 #info{
     position: absolute;
